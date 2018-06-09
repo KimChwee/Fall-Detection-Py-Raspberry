@@ -39,5 +39,5 @@ class Settings(object):
 		self.phone = '01010101010'
 		#self.email = 'steve.tan.chee.wei@gmail.com'
 		self.email = 'testing@gmail.com'
-		self.apiKey = "key-3c6afa8818f29cd2a21514d6564b0861-"
+		self.apiKey = ""   #update your API here
 		self.alarmImagesFolder = "alarms"
