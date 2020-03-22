@@ -10,6 +10,6 @@ Below is the instruction to install openCV in raspberry
 	3. Run this command in console to enable your raspberry video with openCV & python (required each time you boot up raspberry if you are using live video)
 	sudo modprobe bcm2835-v4l2
 
-About the Product: https://youtu.be/URcbJUne99E
+About the Product: https://www.youtube.com/watch?v=Ga4BIeVae1c&feature=youtu.be
 
 ![demo](Fall.gif)
